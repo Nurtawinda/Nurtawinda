@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Perkenalkan nama saya **Nurtawinda**.\
 Mahasiswa **Teknik Komputer**  di Universitas Negeri Makassar.
 
-Saya saat ini telah memasuki semester 5. Selain itu saya merupakan salah satu cohort Machine Learning di Bangkit 2023 batch 2.
+Saya saat ini telah memasuki semester 6. Selain itu saya merupakan salah satu alumni cohort Machine Learning di Bangkit 2023 batch 2.
 
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/nurtawinda/)ku ya.
 
