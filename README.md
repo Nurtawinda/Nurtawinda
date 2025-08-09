@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-Perkenalkan nama saya **Nurtawinda**.\
+Perkenalkan nama saya **Nurtawinda**.
 
 Saya saat ini merupakan fresh graduate. Selain itu saya merupakan salah satu alumni cohort Machine Learning di Bangkit 2023 batch 2 dan alumni cohort di Laskar AI 2025.
 
