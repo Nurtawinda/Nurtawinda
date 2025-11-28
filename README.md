@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->  
 Perkenalkan nama saya **Nurtawinda**.
 
-Saya saat ini merupakan fresh graduate **Teknik Komputer**, Universitas Negeri Makassar. Selain itu saya merupakan salah satu alumni cohort Machine Learning di Bangkit 2023 batch 2 dan alumni cohort di Laskar AI 2025.
+Saya saat ini merupakan fresh graduate **Teknik Komputer**, Universitas Negeri Makassar. Selain itu saya merupakan salah satu alumni dan alumni cohort di Laskar AI 2025 dan cohort Machine Learning di Bangkit 2023 batch 2.
 
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/nurtawinda/)ku ya.
 
