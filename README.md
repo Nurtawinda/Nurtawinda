@@ -28,8 +28,9 @@ I am a fresh graduate with a strong passion for Data Analytics, Data Science, an
 
 📬 Contact
 
-📧 [Email](nurtawinda01@gmail.com)
-💼 [LinkedIn](www.linkedin.com/in/nurtawinda/)
+📧 Email: [nurtawinda01@gmail.com](mailto:nurtawinda01@gmail.com)
+
+💼 LinkedIn: [Nurtawinda](https://www.linkedin.com/in/nurtawinda/)
 
 ⭐ Thank you for visiting my profile!
 
