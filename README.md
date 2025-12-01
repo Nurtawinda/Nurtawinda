@@ -1,22 +1,36 @@
-### Hi there 👋
+# 🌟 Hi, I’m Nurtawinda
 
-<!--
-**Nurtawinda/Nurtawinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fresh Graduate • Aspiring Data & Machine Learning Enthusiast**
 
-Here are some ideas to get you started:
+I am a fresh graduate with a strong passion for Data Analytics, Data Science, and Machine Learning. I enjoy exploring datasets, building predictive models, and developing AI based solutions, particularly in the areas of speech and language processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
-Perkenalkan nama saya **Nurtawinda**.
+🚀 About Me
+- 🎓 Fresh graduate with a strong interest in Data Science & Machine Learning
+- 🔊 Developed a Speech-to-Text system for the Bugis language using MFCC + LSTM Seq2Seq
+- 🧠 Experienced in NLP, audio processing, deep learning, and model evaluation
+- 💼 Open to opportunities as a Data Analyst, Data Scientist, or ML Engineer
+- 🌱 Always learning new tools and improving my ML research skills
+- ✨ Passionate about transforming data into meaningful insights
 
-Saya saat ini merupakan fresh graduate **Teknik Komputer**, Universitas Negeri Makassar. Selain itu saya merupakan salah satu alumni dan alumni cohort di Laskar AI 2025 dan cohort Machine Learning di Bangkit 2023 batch 2.
+🛠️ Tech Stack
+- **Languages**: Python, SQL
+- **Machine Learning**: TensorFlow, Keras, Scikit-learn, NumPy, Pandas
+- **Audio & NLP**: MFCC, Librosa, NLTK, LSTM Seq2Seq, CNN, RNN
+- **Tools**: Jupyter Notebook, Google Colab, GitHub, Excel, Power BI
 
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/nurtawinda/)ku ya.
+📊 What I Work On
+- Speech-to-Text (STT) models
+- Machine Learning classification & prediction
+- NLP (translation, text processing, sequence modeling)
+- Data visualization + data analysis
+- Building research-driven ML projects
 
+
+📬 Contact
+
+📧 [Email](nurtawinda01@gmail.com)
+💼 [LinkedIn](www.linkedin.com/in/nurtawinda/)
+
+⭐ Thank you for visiting my profile!
+
+Feel free to explore my repositories or connect with me for collaboration or opportunities.
