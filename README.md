@@ -1,6 +1,5 @@
 # 🌟 Hi, I’m Nurtawinda 🍀
 
-# Hi there, I'm Nurtawinda! 👋
 ### Computer Engineering Graduate | Data Management & Analytics | Data Science & ML Enthusiast
 
 A results-driven **Computer Engineering** graduate with a versatile technical background spanning across **Data Management & Analytics, Data Science, System Architecture,** and **Quality Assurance (QA)**. I bridge the gap between robust system engineering and intelligent, data-driven solutions—with a specialized passion for Deep Learning, Audio Processing, and Natural Language Processing (NLP).
@@ -37,7 +36,7 @@ A results-driven **Computer Engineering** graduate with a versatile technical ba
 ---
 
 ### 📬 Connect with Me
-- 💼 **LinkedIn:** [www.linkedin.com/in/nurtawinda](www.linkedin.com/in/nurtawinda)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/nurtawinda]([www.linkedin.com/in/nurtawinda](https://www.linkedin.com/in/nurtawinda/))
 - 📧 **Email:** [nurtawinda01@gmail.com](mailto:nurtawinda01@gmail.com)
 
 ---
