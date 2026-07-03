@@ -36,7 +36,7 @@ A results-driven **Computer Engineering** graduate with a versatile technical ba
 ---
 
 ### 📬 Connect with Me
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/nurtawinda]([www.linkedin.com/in/nurtawinda](https://www.linkedin.com/in/nurtawinda/))
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/nurtawinda](https://www.linkedin.com/in/nurtawinda)
 - 📧 **Email:** [nurtawinda01@gmail.com](mailto:nurtawinda01@gmail.com)
 
 ---
